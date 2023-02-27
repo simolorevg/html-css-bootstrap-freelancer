@@ -7,9 +7,20 @@
 }
 .my_navbar{
     background-color: var(--nav-color);
+    color: white;
 }
 .my_jumbo{
     background-color: var(--jumbo-color);
+    color: white;
+}
+/*RESET*/
+a{
+    color: inherit;
+    text-decoration: none;
+}
+/*MARGIN*/
+.margin-top10{
+    margin-top: 10px;
 }
 /*HEADER*/
 .my_logo-header,
@@ -35,4 +46,10 @@
 .my_col{
     border: 1px solid black;
     min-height: 100px;
+}
+/*ABOUT US*/
+.my_about-us{
+    background-color: var(--jumbo-color);
+    color: white;
+    text-align: center;
 }
