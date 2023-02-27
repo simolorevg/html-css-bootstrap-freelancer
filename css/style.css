@@ -18,6 +18,9 @@ a{
     color: inherit;
     text-decoration: none;
 }
+img{
+    max-width: 300px;
+}
 /*MARGIN*/
 .margin-top10{
     margin-top: 10px;
@@ -41,9 +44,7 @@ a{
 /*JUMBOTRON*/
 .my_jumbo-image,
 .my_jumbo-paragraph{
-    /*DEBUG*/
-    min-height: 100px;
-    border: 1px solid white;
+    text-align: center;
 }
 /*MAIN*/
 /*PORTFOLIO*/
