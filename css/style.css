@@ -5,21 +5,22 @@
     --footer-top-color: #3a546d;
     --footer-bottom-color: #2c3e50;
 }
-.ms_navbar{
+.my_navbar{
     background-color: var(--nav-color);
 }
-.ms_jumbo{
+.my_jumbo{
     background-color: var(--jumbo-color);
 }
 /*HEADER*/
-.logo-header,
-.menu_header{
+.my_logo-header,
+.my_menu_header{
     /*DEBUG*/
     min-height: 50px;
 }
-.logo-header{
+.my_logo-header{
     background-color: lightcoral;
 }
-.menu_header{
+.my_menu_header{
     background-color: orange;
 }
+/*JUMBOTRON*/
