@@ -61,3 +61,6 @@ a{
 .my_top-footer{
     background-color: var(--footer-top-color);
 }
+.my_bottom-footer{
+    background-color: var(--footer-bottom-color);
+}
