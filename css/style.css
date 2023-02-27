@@ -19,11 +19,14 @@ a{
     text-decoration: none;
 }
 img{
-    max-width: 300px;
+    max-width: 100%;
 }
 /*MARGIN*/
 .margin-top10{
     margin-top: 10px;
+}
+.margin-bottom20{
+    margin-bottom: 20px;
 }
 /*TEXT ALIGN*/
 .text-center{
@@ -46,11 +49,16 @@ img{
 .my_jumbo-paragraph{
     text-align: center;
 }
+.my_jumbo-image img{
+    max-width: 300px;
+}
 /*MAIN*/
 /*PORTFOLIO*/
 .my_col{
-    border: 1px solid black;
     min-height: 100px;
+}
+.my_col img{
+    border-radius: 10px;
 }
 /*ABOUT US*/
 .my_about-us{
