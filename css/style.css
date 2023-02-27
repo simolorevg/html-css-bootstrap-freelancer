@@ -22,6 +22,10 @@ a{
 .margin-top10{
     margin-top: 10px;
 }
+/*TEXT ALIGN*/
+.text-center{
+    text-align: center;
+}
 /*HEADER*/
 .my_logo-header,
 .my_menu_header{
@@ -52,4 +56,8 @@ a{
     background-color: var(--jumbo-color);
     color: white;
     text-align: center;
+}
+/*FOOTER*/
+.my_top-footer{
+    background-color: var(--footer-top-color);
 }
