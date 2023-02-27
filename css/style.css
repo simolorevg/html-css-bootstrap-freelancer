@@ -24,3 +24,9 @@
     background-color: orange;
 }
 /*JUMBOTRON*/
+.my_jumbo-image,
+.my_jumbo-paragraph{
+    /*DEBUG*/
+    min-height: 100px;
+    border: 1px solid white;
+}
