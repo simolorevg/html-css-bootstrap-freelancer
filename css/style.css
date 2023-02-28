@@ -49,6 +49,15 @@ img{
     background-color: var(--jumbo-color);
     color: white;
 }
+.my_btn{
+    border: 1px solid white;
+    color: white;
+}
+.my_btn:hover{
+    border: 1px solid white;
+    background-color: rgba(255, 255, 255, 0.5);
+    color: black;
+}
 .my_btn-primary:hover{
     background-color: #00ffcc;
 }
@@ -58,6 +67,9 @@ img{
 }
 .margin-bottom20{
     margin-bottom: 20px;
+}
+.margin-right10{
+    margin-right: 10px;
 }
 /*HEADER*/
 .my_logo-header,
