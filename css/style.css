@@ -21,6 +21,11 @@ a{
 img{
     max-width: 100%;
 }
+/*COMMON*/
+.my_container{
+    max-width: 800px;
+    margin: 0 auto;
+}
 /*MY BTNS*/
 .my_btn-primary{
     background-color: var(--jumbo-color);
