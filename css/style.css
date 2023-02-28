@@ -22,9 +22,19 @@ img{
     max-width: 100%;
 }
 /*COMMON*/
+/*LAYOUT*/
 .my_container{
     max-width: 800px;
     margin: 0 auto;
+}
+.my_line{
+    width: 30%;
+    height: 7px;
+    border-radius: 10px;
+    background-color: black;
+}
+.my_icon{
+    font-size: 2em;
 }
 /*MY BTNS*/
 .my_btn-primary{
