@@ -21,6 +21,14 @@ a{
 img{
     max-width: 100%;
 }
+/*MY BTNS*/
+.my_btn-primary{
+    background-color: var(--jumbo-color);
+    color: white;
+}
+.my_btn-primary:hover{
+    background-color: #00ffcc;
+}
 /*MARGIN*/
 .margin-top10{
     margin-top: 10px;
