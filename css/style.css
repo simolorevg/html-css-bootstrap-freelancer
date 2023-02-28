@@ -18,6 +18,9 @@ a{
     color: inherit;
     text-decoration: none;
 }
+a:hover{
+    color: inherit;
+}
 img{
     max-width: 100%;
 }
@@ -67,6 +70,11 @@ img{
     height: 100%;
     padding: 0;
     margin: 0 auto;
+}
+.my_hamburger{
+    padding: 5px 20px;
+    font-size: 1.2em;
+    border: 1px solid white;
 }
 /*JUMBOTRON*/
 .my_jumbo-image,
