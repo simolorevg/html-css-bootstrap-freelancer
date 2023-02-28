@@ -41,8 +41,26 @@ img{
 .my_color-black{
     background-color: black;
 }
+.my_color-jumbo{
+    color: var(--jumbo-color);
+}
+.my_color-jumbo:hover{
+    color:#00ffcc;
+}
 .my_icon{
     font-size: 2em;
+}
+.my_round-icon{
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+    border: 1px solid white;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 0.8em;
+}
+.my_text-white{
+    color: white;
 }
 /*MY BTNS*/
 .my_btn-primary{
