@@ -31,6 +31,11 @@ img{
     width: 30%;
     height: 7px;
     border-radius: 10px;
+}
+.my_color-white{
+    background-color: white;
+}
+.my_color-black{
     background-color: black;
 }
 .my_icon{
@@ -54,14 +59,14 @@ img{
 /*HEADER*/
 .my_logo-header,
 .my_menu_header{
-    /*DEBUG*/
-    min-height: 50px;
+    height: 100px;
 }
-.my_logo-header{
-    background-color: lightcoral;
-}
-.my_menu_header{
-    background-color: orange;
+.my_list{
+    list-style-type: none;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0 auto;
 }
 /*JUMBOTRON*/
 .my_jumbo-image,
@@ -70,6 +75,9 @@ img{
 }
 .my_jumbo-image img{
     max-width: 300px;
+}
+.my_jumbo-paragraph{
+    padding: 10px;
 }
 /*MAIN*/
 /*PORTFOLIO*/
